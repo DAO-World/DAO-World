@@ -1,0 +1,24 @@
+import './slicedToArray-19bf668e.js';
+import './unsupportedIterableToArray-fbb818bf.js';
+import 'react';
+import './_commonjsHelpers-97e6d7b1.js';
+import './toConsumableArray-261b678d.js';
+import './getPrototypeOf-5905040a.js';
+import './color.js';
+import './components.js';
+import './contains-component.js';
+import './css.js';
+import './dayjs.min-04cb64ac.js';
+import './date.js';
+import './miscellaneous.js';
+import './environment.js';
+import './font.js';
+import './math-934b2e15.js';
+import './characters.js';
+import './format.js';
+import './keycodes.js';
+import './url.js';
+import './web3.js';
+import './aragon.js';
+export { brand, colors, theme, themeDark } from './palettes.js';
+//# sourceMappingURL=theme-legacy.js.map
