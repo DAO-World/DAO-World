@@ -94,8 +94,8 @@ const Welcome = React.memo(function Welcome({
           color: ${theme.contentSecondary};
         `}
       >
-        Do you need more information about Aragon?{' '}
-        <Link href="https://aragon.org/" external>
+        Do you need more information about Prigogine?{' '}
+        <Link href="https://client.aragon.org/?#/cep" external>
           Visit our homepage
         </Link>
       </p>
@@ -130,7 +130,7 @@ function CreateSubtitle({ error }) {
       </span>
     )
   }
-  return 'Start your organization with Aragon'
+  return 'Start your organization with Prigogine'
 }
 
 CreateSubtitle.propTypes = {
